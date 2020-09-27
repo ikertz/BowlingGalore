@@ -1,0 +1,13 @@
+C:\Users\Ike\Source\Repos\BowlingGalore\bin\Debug\netcoreapp3.1\BowlingGalore.exe
+C:\Users\Ike\Source\Repos\BowlingGalore\bin\Debug\netcoreapp3.1\BowlingGalore.deps.json
+C:\Users\Ike\Source\Repos\BowlingGalore\bin\Debug\netcoreapp3.1\BowlingGalore.runtimeconfig.json
+C:\Users\Ike\Source\Repos\BowlingGalore\bin\Debug\netcoreapp3.1\BowlingGalore.runtimeconfig.dev.json
+C:\Users\Ike\Source\Repos\BowlingGalore\bin\Debug\netcoreapp3.1\BowlingGalore.dll
+C:\Users\Ike\Source\Repos\BowlingGalore\bin\Debug\netcoreapp3.1\BowlingGalore.pdb
+C:\Users\Ike\Source\Repos\BowlingGalore\obj\Debug\netcoreapp3.1\BowlingGalore.AssemblyInfoInputs.cache
+C:\Users\Ike\Source\Repos\BowlingGalore\obj\Debug\netcoreapp3.1\BowlingGalore.AssemblyInfo.cs
+C:\Users\Ike\Source\Repos\BowlingGalore\obj\Debug\netcoreapp3.1\BowlingGalore.csproj.CoreCompileInputs.cache
+C:\Users\Ike\Source\Repos\BowlingGalore\obj\Debug\netcoreapp3.1\BowlingGalore.dll
+C:\Users\Ike\Source\Repos\BowlingGalore\obj\Debug\netcoreapp3.1\BowlingGalore.pdb
+C:\Users\Ike\Source\Repos\BowlingGalore\obj\Debug\netcoreapp3.1\BowlingGalore.genruntimeconfig.cache
+C:\Users\Ike\Source\Repos\BowlingGalore\obj\Debug\netcoreapp3.1\BowlingGalore.csprojAssemblyReference.cache
